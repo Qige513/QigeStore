@@ -6,7 +6,7 @@
 
 [交流群](https://jq.qq.com/?_wv=1027&k=tVbO3UnK)
 
-# 授权系统
+# 授权
 
 [授权系统](http://sqa.xn--kwrp14e.cf/store/)
 [临时演示站](http://tst.xn--94qu47l.cf/)

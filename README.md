@@ -1,6 +1,6 @@
 # Qige Store
 
-[Qige Store](https://github.com/qige513/QigeStore)，是一款基于 `DS Store`、`PHP`的云商城系统，系统集成了多种支付方式以及熟悉的彩虹UI。内有便捷的多种插件，方便您的使用！
+[Qige Store](https://github.com/qige513/QigeStore)，是一款基于 `DS Store`、`PHP` 的云商城系统，系统集成了多种支付方式以及熟悉的彩虹UI。内有便捷的多种插件，方便您的使用！
 
 ## QQ群
 
@@ -20,7 +20,7 @@
 
  ## 临时声明
 
-请下载是仅下载QigeStore.zip文件，谢谢支持。如有需要安装服务请联系我。
+请仅下载 `QigeStore.zip` 文件，谢谢支持。如有需要安装服务请联系我。
 
 # 支持我
 

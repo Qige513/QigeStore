@@ -39,7 +39,7 @@
             <h3 style="text-align:center;">用户隐私免责声明</h3>
             <p>1、用户隐私制度</p>
             <p>&nbsp;&nbsp;&nbsp;&nbsp;任何单位或个人一经下载安装使用本Qige Store，一切Qige Store源代码、系统控制后台、后台账户密码等；包括域名和服务器，都在下载使用方手中，本Qige Store将无监管和控制下载使用方的能力。</p>
-            <p>&nbsp;&nbsp;&nbsp;&nbsp;下载使用方应尊重用户个人隐私是本Qige Store的一项基本政策要求。所以，本Qige Store一定不会公开、编辑或透露用户的注册资料及保存在本Qige Store各项服务中的非公开内容，除非本Qige Store在诚信的基础上认为透露这些信息在以下几种情况是必要的：<br/>
+            <p>&nbsp;&nbsp;&nbsp;&nbsp;下载使用方应尊重用户个人隐私是本Qige Store的一项基本政策要求。所以，本程序一定不会公开、编辑或透露用户的注册资料及保存在本Qige Store各项服务中的非公开内容，除非本Qige Store在诚信的基础上认为透露这些信息在以下几种情况是必要的：<br/>
                 1、遵守有关法律规定，包括在国家有关机关查询时，提供用户在本Qige Store的网页上发布的信息内容及其发布时间、互联网地址或者域名。<br/>
                 2、遵从本Qige Store产品服务程序。<br/>
                 3、保持维护本Qige Store的商标所有权。<br/>
@@ -49,7 +49,7 @@
             <p>&nbsp;&nbsp;&nbsp;&nbsp;凡以任何方式下载或直接、间接使用本Qige Store资料者，视为自愿接受本网站声明的约束。</p>
         </div>
     </div>
-    <p>法律声明：本程序基于祥云系统，仅供学习交流使用，如有侵权请联系删除</p>
+    <p>法律声明：本程序基于网络现有代码，如有侵权请联系删除</p>
     <a href="/index.php?mianze=true" style="text-decoration:none"><button class="button">同意,下一步</button></a>
     <div style="height: 20px"></div>
 </div>

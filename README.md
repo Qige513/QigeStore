@@ -10,6 +10,7 @@
 
 [授权系统](http://sqa.xn--kwrp14e.cf/store/)
 [临时演示站](http://tst.xn--94qu47l.cf/)
+首批客户永久免费使用
 
 # 如何使用
 
